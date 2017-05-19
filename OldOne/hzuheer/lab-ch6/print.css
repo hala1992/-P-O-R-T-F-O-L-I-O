@@ -1,0 +1,44 @@
+
+    .header { display: none;
+    }
+    
+   .content1 { color: black;
+                border: 2px dotted black;
+                margin: 5px;
+                padding: 5px;
+                background-color: white;
+                float: left;
+                width: 30%;
+                font-family: cursive;
+                font-size: 12pt;
+           }
+    
+    .content2 { color: black;
+                background-color: white;
+                border: 1px ridge black;
+                margin: 5px 30px 5px 30px;
+                font-family: cursive;
+                font-size: 12pt;
+                padding: 5px;
+                float: left;
+                width: 30%;
+                height: 105px;
+                
+    }
+       
+    
+  nav { display: none;
+} 
+
+    .footer { color: black;
+        border: 3px solid black;
+        padding: 5px;
+        margin: 5px;
+        text-align: center;
+        clear: both;
+        background-color: white;
+    }
+
+
+
+.container a:after { content: " (" attr(href) ")"; }

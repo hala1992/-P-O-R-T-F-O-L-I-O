@@ -1,0 +1,9 @@
+C:\Users\hala\Desktop\ch11\1 SubscribExceptionTest\ex2\bin\Debug\ex2.exe.config
+C:\Users\hala\Desktop\ch11\1 SubscribExceptionTest\ex2\bin\Debug\ex2.exe
+C:\Users\hala\Desktop\ch11\1 SubscribExceptionTest\ex2\bin\Debug\ex2.pdb
+C:\Users\hala\Desktop\ch11\1 SubscribExceptionTest\ex2\obj\Debug\ex2 with error.csprojResolveAssemblyReference.cache
+C:\Users\hala\Desktop\ch11\1 SubscribExceptionTest\ex2\obj\Debug\ex2.exe
+C:\Users\hala\Desktop\ch11\1 SubscribExceptionTest\ex2\obj\Debug\ex2.pdb
+C:\Users\hala\Desktop\ch11\ch11\ex2\bin\Debug\ex2.exe.config
+C:\Users\hala\Desktop\ch11\ch11\ex2\obj\Debug\ex2.exe
+C:\Users\hala\Desktop\ch11\ch11\ex2\obj\Debug\ex2.pdb

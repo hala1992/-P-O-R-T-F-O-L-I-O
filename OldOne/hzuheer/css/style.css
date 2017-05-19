@@ -1,0 +1,197 @@
+      .heading {
+          text-align: center;
+          color: #FF7A95;
+          background-color: #004080;
+          font-size: 2.6em;
+          font-weight: bold;
+      }
+      
+      .heading2 {
+          font-family: cursive;
+          color: #004080;
+          font-size: 1.5em;
+          border-bottom: 3px solid #FF7A95;
+          text-align: center;
+      }
+      
+      section h3 {
+          color: #004080;
+          font-size: 1.4em;
+          padding: 5px;
+          text-indent: 5px;
+          font-style: italic;
+      }
+      
+      #hala {
+          border-radius: 10px;
+          box-shadow: 50px 40px 100px pink;
+          border: 2px double white
+      }
+      
+      aside h3 {
+          color: #004080;
+          font-style: italic;
+          font-size: 1.4em;
+          padding: 5px;
+          text-indent: 5px
+      }
+      
+      #margin {
+          display: block;
+      }
+      
+      article h3 {
+          font-family: cursive;
+          color: #004080;
+          font-size: 1.4em;
+          font-size: 1.2em;
+          padding-top: 20px;
+      }
+      
+      article img {
+          margin: 20px 20px 10px 500px
+      }
+      
+      nav {
+          float: left;
+          border: 1px solid #FF7A95;
+          background-color: #ccc;
+          width: 100%;
+          font-weight: bold;
+          font-family: Arial;
+      }
+      
+      nav ul {
+          list-style-type: none;
+          border-right: 2px solid #FF7A95;
+      }
+      
+      nav li {
+          display: inline;
+          padding: 4px;
+      }
+      
+      nav ul li a {
+          text-decoration: none;
+          padding-right: 15px;
+          border-right: 1px solid #FF7A95;
+          word-spacing: 5px;
+      }
+      
+      nav ul li a:hover {
+          background-color: #FF5252;
+      }
+      
+      nav ul li a:visited {
+          background-color: #B3D9FF;
+      }
+      
+      section {
+          font-family: cursive;
+          width: 59%;
+          color: blue;
+          clear: left;
+          height: 400px;
+          background-color: #E3E3E3;
+          float: left;
+      }
+      
+      section img {
+          position: relative;
+          margin: 10px;
+      }
+      
+      aside {
+          font-family: cursive;
+          font-size: 1.2em;
+          width: 40%;
+          color: blue;
+          background-color: #E3E3E3;
+          float: right;
+          height: 400px;
+          margin-bottom: 20px;
+      }
+      
+      article {
+          width: 100%;
+          clear: both;
+          background-color: #CCc;
+          margin-bottom: 20px;
+          padding-bottom: 5px;
+      }
+      
+      footer {
+          clear: both;
+          width: 100%;
+          font-family: cursive;
+          color: gray;
+          background-color: #FFCCFF;
+          position: absolute;
+      }
+      
+      article p {
+          font-size: 1em;
+          color: blue;
+          font-family: Arial;
+          text-indent: 5px;
+          color: #FF7A95;
+      }
+      
+      section p {
+          color: #FF7A95;
+          font-weight: bold;
+      }
+      
+      aside ul {
+          color: #FF7A95;
+      }
+      
+      aside h4 {
+          font-size: 3em;
+          font-style: italic;
+          font-size: 1em;
+          color: #004080;
+          font-family: cursive;
+          text-indent: 5px;
+      }
+      
+      footer p {
+          font-size: .88em;
+          color: gray;
+          text-align: center;
+      }
+      
+      section ul {
+          font-family: Arial;
+          color: #FF7A95;
+          font-size: 1em;
+      }
+      
+      #new {
+          text-decoration: none;
+      }
+      
+      #new:hover {
+          color: white;
+      }
+      
+      aside ol {
+          font-family: Arial;
+          color: #FF7A95;
+          font-size: .88em;
+      }
+      
+      table,
+      th,
+      td {
+          color: #004080;
+          border: 1px dashed #FF7A95;
+          border-collapse: collapse;
+          background-color: #FFE5FF;
+      }
+      
+      th,
+      td {
+          padding: 5px;
+          text-align: left;
+      }

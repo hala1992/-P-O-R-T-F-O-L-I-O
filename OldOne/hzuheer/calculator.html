@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+      <title>Calculator</title>
+      <link rel="stylesheet" href="js_styles.css" type="text/css" />
+      <meta charset="utf-8">
+      <script type="text/javascript">
+            /* <![CDATA[ */
+
+            var inputString = "";
+
+            function updateString(value) {
+                  inputString += value;
+                  document.calcForm.input.value = inputString;
+            }
+
+            /* ]]> */
+      </script>
+</head>
+
+<body>
+      <form action="" name="calcForm">
+            <p>
+
+                  <input type="text" name="input" style="width: 170px">
+                  <br>
+                  <input type="button" name="seven" style="width: 40px" value="7" onclick="updateString('7')" />
+                  <input type="button" name="eight" style="width: 40px" value="8" onclick="updateString('8')" />
+                  <input type="button" name="nine" style="width: 40px" value="9" onclick="updateString('9')" />
+                  <input type="button" name="div" style="width: 40px" value="/" onclick="updateString('/')" />
+                  <br />
+                  <input type="button" name="four" style="width: 40px" value="4" onclick="updateString('4')" />
+                  <input type="button" name="five" style="width: 40px" value="5" onclick="updateString('5')" />
+                  <input type="button" name="six" style="width: 40px" value="6" onclick="updateString('6')" />
+                  <input type="button" name="times" style="width: 40px" value="*" onclick="updateString('*')" />
+                  <br />
+                  <input type="button" name="one" style="width: 40px" value="1" onclick="updateString('1')" />
+                  <input type="button" name="two" style="width: 40px" value="2" onclick="updateString('2')" />
+                  <input type="button" name="three" style="width: 40px" value="3" onclick="updateString('3')" />
+                  <input type="button" name="minus" style="width: 40px" value="-" onclick="updateString('-')" />
+                  <br />
+                  <input type="button" name="zero" style="width: 40px" value="0" onclick="updateString('0')" />
+                  <input type="button" name="point" style="width: 40px" value="." onclick="updateString('.')" />
+                  <input type="button" name="clear" style="width: 40px" value="C" onclick="document.calcForm.input.value='';
+inputString=''" />
+                  <input type="button" name="plus" style="width: 40px" value="+" onclick="updateString('+')" />
+                  <br />
+                  <input type="button" name="calc" style="width: 172px" value="=" onclick="document.calcForm.input.value
+=eval(inputString); inputString=''" />
+            </p>
+      </form>
+
+</body>
+
+</html>

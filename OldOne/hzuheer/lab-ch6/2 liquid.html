@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>two liquid</title>
+<meta charset="utf-8">
+</head>
+  <style>
+      #container
+{
+	margin: 0 auto;
+	width: 100%;
+	background: #fff;
+}
+      #header
+{
+	background: #ccc;
+	padding: 20px;
+}
+
+#header h1 { margin: 0; }
+
+#navigation
+{
+	float: left;
+	width: 100%;
+	background: #333;
+}
+
+#navigation ul
+{
+	margin: 0;
+	padding: 0;
+}
+
+#navigation ul li
+{
+	list-style-type: none;
+	display: inline;
+}
+      #navigation li a
+{
+	display: block;
+	float: left;
+	padding: 5px 10px;
+	color: #fff;
+	text-decoration: none;
+	border-right: 1px solid #fff;
+}
+
+#navigation li a:hover { background: #383; }
+
+#content-container
+{
+	float: left;
+	width: 100%;
+	background: #FFF url(layout-two-liquid-background.gif) repeat-y 68% 0;
+}
+
+#content
+{
+	clear: left;
+	float: left;
+	width: 60%;
+	padding: 20px 0;
+	margin: 0 0 0 4%;
+	display: inline;
+}
+#content h2 { margin: 0; 
+color: #00004D;}
+
+#aside
+{
+	float: right;
+	width: 26%;
+    height: 360px;
+	padding: 20px 20px;
+	margin: 0 0% 0 0;
+	display: inline;
+    background: #ccc;
+}
+
+#aside h3 { margin: 0;
+color: #00004D;}
+
+#footer
+{
+	clear: left;
+	background: #ccc;
+	text-align: right;
+	padding: 20px;
+	height: 1%;
+}
+  </style>
+    <body>
+      <div id="container">
+	<div id="header">
+		<h1>
+			Site name
+		</h1>
+	</div>
+	<div id="navigation">
+		<ul>
+			<li><a href="#">Home</a></li>
+			<li><a href="#">About</a></li>
+			<li><a href="#">Services</a></li>
+			<li><a href="#">Contact us</a></li>
+		</ul>
+	</div>
+	<div id="content-container">
+		<div id="content">
+			<h2>
+				Page heading
+			</h2>
+			<p>
+				Lorem ipsum dolor sit amet consect etuer adipi scing elit sed diam nonummy nibh euismod tinunt ut laoreet dolore magna aliquam erat volut. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. 
+			</p>
+			<p>
+				Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. 
+			</p>
+			<p>
+				Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. 
+			</p>
+		</div> <!--This closing the content's div -->
+		<div id="aside">
+			<h3>
+				Aside heading
+			</h3>
+			<p>
+				Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan.
+			</p>
+		</div> <!--This closing the aside's div -->
+		<div id="footer">
+			Copyright © Site name, 20XX
+		</div> <!--This closing the footer's div -->
+	</div> <!--This closing the content-container's div -->
+</div> <!--This closing the container's div -->
+    </body>
+    </html>

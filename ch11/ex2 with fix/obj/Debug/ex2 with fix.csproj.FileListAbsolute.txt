@@ -1,0 +1,9 @@
+C:\Users\hala\Desktop\ch11\1 SubscribExceptionTest\ex2 with fix\bin\Debug\ex2 with fix.exe.config
+C:\Users\hala\Desktop\ch11\1 SubscribExceptionTest\ex2 with fix\bin\Debug\ex2 with fix.exe
+C:\Users\hala\Desktop\ch11\1 SubscribExceptionTest\ex2 with fix\bin\Debug\ex2 with fix.pdb
+C:\Users\hala\Desktop\ch11\1 SubscribExceptionTest\ex2 with fix\obj\Debug\ex2 with fix.exe
+C:\Users\hala\Desktop\ch11\1 SubscribExceptionTest\ex2 with fix\obj\Debug\ex2 with fix.pdb
+C:\Users\hala\Desktop\ch11\1 SubscribExceptionTest\ex2 with fix\obj\Debug\ex2 with fix.csprojResolveAssemblyReference.cache
+C:\Users\hala\Desktop\ch11\ch11\ex2 with fix\bin\Debug\ex2 with fix.exe.config
+C:\Users\hala\Desktop\ch11\ch11\ex2 with fix\obj\Debug\ex2 with fix.exe
+C:\Users\hala\Desktop\ch11\ch11\ex2 with fix\obj\Debug\ex2 with fix.pdb

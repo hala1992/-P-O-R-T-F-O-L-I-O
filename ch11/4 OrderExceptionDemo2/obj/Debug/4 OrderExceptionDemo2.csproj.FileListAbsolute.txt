@@ -1,0 +1,6 @@
+C:\Users\hala\Desktop\ch11\ch11\4 OrderExceptionDemo2\bin\Debug\4 OrderExceptionDemo2.exe.config
+C:\Users\hala\Desktop\ch11\ch11\4 OrderExceptionDemo2\bin\Debug\4 OrderExceptionDemo2.exe
+C:\Users\hala\Desktop\ch11\ch11\4 OrderExceptionDemo2\bin\Debug\4 OrderExceptionDemo2.pdb
+C:\Users\hala\Desktop\ch11\ch11\4 OrderExceptionDemo2\obj\Debug\4 OrderExceptionDemo2.csprojResolveAssemblyReference.cache
+C:\Users\hala\Desktop\ch11\ch11\4 OrderExceptionDemo2\obj\Debug\4 OrderExceptionDemo2.exe
+C:\Users\hala\Desktop\ch11\ch11\4 OrderExceptionDemo2\obj\Debug\4 OrderExceptionDemo2.pdb

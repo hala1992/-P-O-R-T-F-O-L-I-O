@@ -1,0 +1,83 @@
+BODY
+{
+    BACKGROUND-COLOR: #000000;
+    COLOR: #ffffff;
+    FONT-FAMILY: Tahoma;
+    FONT-SIZE: 11px
+    margin-left: 0px;
+    margin-top: 0px;
+}
+P
+{
+    COLOR: #ffffff;
+    FONT-FAMILY: Tahoma;
+    FONT-SIZE: 11px;
+    MARGIN-BOTTOM: 4px;
+    MARGIN-TOP: 4px
+}
+ p.c1 {text-align: right}
+
+.noBorder
+{
+border-color:transparent; border-width:0 
+}
+TABLE.Top
+{
+    BORDER-BOTTOM: #000000 1px;
+    BORDER-LEFT: #000000 1px solid;
+    BORDER-RIGHT: #000000 1px solid;
+    BORDER-TOP: #000000 1px solid
+}
+TABLE.Middle
+{
+    BORDER-BOTTOM: #000000 1px;
+    BORDER-LEFT: #000000 1px solid;
+    BORDER-RIGHT: #000000 1px solid;
+    BORDER-TOP: #000000 1px
+}
+TABLE.Bottom
+{
+    BORDER-BOTTOM: #000000 1px solid;
+    BORDER-LEFT: #000000 1px solid;
+    BORDER-RIGHT: #000000 1px solid;
+    BORDER-TOP: #000000 1px
+}
+TD.VSeparatorBack
+{
+    BACKGROUND-IMAGE: url(images/VSeparatorBack.gif);
+    BACKGROUND-REPEAT: repeat-y
+}
+TD.ImageBack
+{
+    BACKGROUND-COLOR: #000000;
+    BACKGROUND-POSITION: center top;
+    BACKGROUND-REPEAT: no-repeat
+}
+.NoBreakBeforeAfter
+{
+    MARGIN-BOTTOM: 0px;
+    MARGIN-TOP: 0px
+}
+TD.Color1
+{
+    BACKGROUND-COLOR: #000000
+}
+TD.Color2
+{
+    BACKGROUND-COLOR: #000000;
+    BACKGROUND-IMAGE: url(images/VShadowBack.gif);
+    BACKGROUND-POSITION: right center;
+    BACKGROUND-REPEAT: repeat-y
+}
+.Indented24R
+{
+    MARGIN-RIGHT: 24px
+}
+.Indented4L
+{
+    MARGIN-LEFT: 4px
+}
+.Indented44R
+{
+    MARGIN-RIGHT: 44px
+}

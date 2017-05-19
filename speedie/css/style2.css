@@ -1,0 +1,210 @@
+/* ========= Global styles ========= */
+
+body {
+      color: #3e4249;
+      font-family: serif;
+      -webkit-font-smoothing: antialiased;
+      text-rendering: optimizelegibility;
+      background-image: url(../Images%20&%20Videos/tile.jpg);
+      background-attachment: fixed;
+}
+
+#navbar-mb {
+      margin: 10px 0;
+      padding-left: 190px;
+}
+
+nav .navbar-nav {
+      padding-left: 378px;
+      font-size: 17px;
+}
+
+nav .navbar-nav li {
+      font-family: serif;
+      padding: 0 0;
+      margin: 0 -5px;
+}
+
+#last {
+      padding: 14px 0;
+      margin: 0 0;
+}
+
+#Navsmall {
+      height: 70px;
+      background-color: black;
+}
+
+#logoImg {
+      margin-top: -12px;
+}
+/* ===================== Section ======================= */
+
+#down {
+      margin-top: 100px;
+      font-family: serif;
+}
+
+.headers {
+      color: #0066ff;
+      font-family: serif;
+      font-size: 4em;
+}
+
+.headers em {
+      font-size: .8em
+}
+
+li {
+      list-style: square;
+      font-size: 1.6em;
+      text-indent: 30px;
+      font-family: serif;
+}
+
+em {
+      color: #dd5638;
+      font-size: 1.3em;
+}
+
+#underline {
+      text-decoration: line-through;
+      color: #dd5638;
+      font-size: 1.3em;
+}
+
+.right {
+      float: left;
+      margin: 10px 20px;
+      border: 1px solid black;
+      padding: 5px;
+      text-align: center;
+      font-size: 1.2em;
+      font-family: cursive;
+      width: 200px;
+      height: 242px;
+      padding-top: 20px;
+}
+
+.color {
+      color: #dd5638;
+}
+
+.modal {
+      overflow: auto;
+      color: #333;
+}
+/* ===================== Special Offers ======================= */
+
+#horzlne {
+      margin: 60px 0;
+      height: 2px;
+      background-color: black;
+}
+
+#downP {
+      font-size: 2em;
+      margin-top: 60px;
+      margin-bottom: 90px;
+      text-align: center;
+      font-family: cursive;
+}
+/* ===================== Footer section ======================== */
+
+footer {
+      background: #dd5638;
+      color: white;
+      height: 70px;
+      margin-top: 0px;
+      text-shadow: none;
+      color: #3e4249;
+      font-size: 20px;
+      font-weight: bold;
+      padding: 20px 0;
+      font-family: serif;
+}
+
+footer p {
+      margin: 0;
+}
+
+footer a:link,
+footer a:visited {
+      color: white;
+      font-size: 20px;
+      font-family: serif;
+}
+
+footer a:hover {
+      color: #3e4249;
+}
+
+footer img {
+      margin: -20px;
+      padding: 0;
+      width: 170px;
+      height: 70px
+}
+
+footer li {
+      margin-top: -10px;
+      margin-right: -30px;
+}
+
+@media (max-width: 600px) {
+      #navbar-mb li {
+            display: inline;
+            float: left;
+            margin: 0;
+            font-size: 14px;
+      }
+      #navbar-mb {
+            position: absolute;
+            margin-top: 0px;
+            margin-left: -440px;
+            background-color: black;
+            overflow: hidden;
+            width: 1100px;
+      }
+      nav img {
+            width: 100%
+      }
+}
+
+@media (max-width: 600px) {
+      #navbar-mb li {
+            padding: 0;
+            margin: 0;
+            font-size: 10px;
+      }
+      #navbar-mb {
+            margin-left: -620px
+      }
+      #top,
+      #go {
+            font-size: 30px
+      }
+      li {
+            font-size: 15px
+      }
+      figure img {
+            width: 60px;
+            height: 100px;
+      }
+      figure.right {
+            width: 65px;
+            height: 150px;
+            padding: 0;
+            font-size: 10px
+      }
+      #downP {
+            font-size: 20px
+      }
+      footer img {
+            display: none;
+      }
+      footer {
+            height: 150px;
+            font-size: 15px
+      }
+}

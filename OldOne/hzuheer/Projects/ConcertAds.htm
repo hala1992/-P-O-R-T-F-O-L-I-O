@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+
+    <title>Concert Ads</title>
+    <script type="text/javascript">
+        /* <![CDATA[ */
+        var curImage = "concert1";
+
+        function bannerAd() {
+
+                if (curImage == "concert1") {
+                    document.images[0].src = "concert2.gif";
+                    curImage = "concert2"
+                } else if (curImage == "concert2") {
+                    document.images[0].src = "concert3.gif";
+                    curImage = "concert3";
+                } else if (curImage == "concert3") {
+                    document.images[0].src = "concert4.gif";
+                    curImage = "concert4";
+                } else if (curImage == "concert4") {
+                    document.images[0].src = "concert5.gif";
+                    curImage = "concert5";
+                } else {
+
+                    document.images[0].src = "concert1.gif";
+                    curImage = "concert1";
+
+                }
+            }
+            /* ]]> */
+    </script>
+</head>
+
+<body onload="var changeImages=setInterval('bannerAd()', 2000);">
+    <p>Adverdising images for a concert series</p>
+    <img src="concert1.gif">
+</body>
+
+</html>

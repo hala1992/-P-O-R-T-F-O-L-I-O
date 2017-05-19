@@ -1,0 +1,19 @@
+@media (max-width: 720px) {
+    
+    .container { width: 80%;
+                margin: auto auto;
+    }
+    
+    
+}
+@media (max-width: 320px) {
+ .container { clear: both;
+     display: flex;
+     flex-wrap: wrap 3;
+        width: 100%;
+ overflow: visible;}
+.content1 { width: 100%;
+            height: auto;}
+.content2 { width: 100%;
+    height: auto;}
+}

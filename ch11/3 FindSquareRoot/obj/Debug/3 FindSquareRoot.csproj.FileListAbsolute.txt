@@ -1,0 +1,12 @@
+C:\Users\hala\Desktop\ch11\ch11\3 FindSquareRoot\bin\Debug\3 FindSquareRoot.exe.config
+C:\Users\hala\Desktop\ch11\ch11\3 FindSquareRoot\bin\Debug\3 FindSquareRoot.exe
+C:\Users\hala\Desktop\ch11\ch11\3 FindSquareRoot\bin\Debug\3 FindSquareRoot.pdb
+C:\Users\hala\Desktop\ch11\ch11\3 FindSquareRoot\obj\Debug\3 FindSquareRoot.csprojResolveAssemblyReference.cache
+C:\Users\hala\Desktop\ch11\ch11\3 FindSquareRoot\obj\Debug\3 FindSquareRoot.exe
+C:\Users\hala\Desktop\ch11\ch11\3 FindSquareRoot\obj\Debug\3 FindSquareRoot.pdb
+C:\Users\hala\Desktop\IWT\Second semester\C#\ch11+14\ch11\ch11\3 FindSquareRoot\bin\Debug\3 FindSquareRoot.exe.config
+C:\Users\hala\Desktop\IWT\Second semester\C#\ch11+14\ch11\ch11\3 FindSquareRoot\obj\Debug\3 FindSquareRoot.exe
+C:\Users\hala\Desktop\IWT\Second semester\C#\ch11+14\ch11\ch11\3 FindSquareRoot\obj\Debug\3 FindSquareRoot.pdb
+C:\Users\hala\Desktop\IWT\Second semester\C#\ch11+14\ch11\ch11\3 FindSquareRoot\bin\Debug\3 FindSquareRoot.exe
+C:\Users\hala\Desktop\IWT\Second semester\C#\ch11+14\ch11\ch11\3 FindSquareRoot\bin\Debug\3 FindSquareRoot.pdb
+C:\Users\hala\Desktop\IWT\Second semester\C#\ch11+14\ch11\ch11\3 FindSquareRoot\obj\Debug\3 FindSquareRoot.csprojResolveAssemblyReference.cache

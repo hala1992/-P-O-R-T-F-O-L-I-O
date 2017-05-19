@@ -1,0 +1,6 @@
+C:\Users\hala\Desktop\ch11\1 SubscribExceptionTest\ex1 fixed\bin\Debug\ex1 fixed.exe.config
+C:\Users\hala\Desktop\ch11\1 SubscribExceptionTest\ex1 fixed\bin\Debug\ex1 fixed.exe
+C:\Users\hala\Desktop\ch11\1 SubscribExceptionTest\ex1 fixed\bin\Debug\ex1 fixed.pdb
+C:\Users\hala\Desktop\ch11\1 SubscribExceptionTest\ex1 fixed\obj\Debug\ex1 fixed.exe
+C:\Users\hala\Desktop\ch11\1 SubscribExceptionTest\ex1 fixed\obj\Debug\ex1 fixed.pdb
+C:\Users\hala\Desktop\ch11\1 SubscribExceptionTest\ex1 fixed\obj\Debug\ex1 fixed.csprojResolveAssemblyReference.cache

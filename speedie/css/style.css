@@ -1,0 +1,724 @@
+/* ========= Global styles ========= */
+
+body {
+      color: white;
+      font-size: 3.8em;
+      font-family: serif;
+      text-shadow: 1px 2px 1px black;
+      background-color: gray;
+}
+
+header {
+      margin-bottom: 250px;
+      margin-top: 10px;
+}
+
+#navbar-mb {
+      margin: 10px 0;
+      padding-left: 190px;
+}
+
+nav .navbar-nav {
+      padding-left: 381px;
+      font-size: 27px;
+}
+
+nav .navbar-nav li {
+      padding-left: 20px;
+}
+/* =========== HERO ============ */
+
+#hero {
+      background: url('../Images%20&%20Videos/logo6.jpg') 100% 1% no-repeat fixed;
+      min-height: 600px;
+      position: relative;
+      background-size: cover;
+      display: table;
+      width: 100%;
+      padding: 100px 0;
+      color: white;
+      -webkit-font-smoothing: antialiased;
+      text-rendering: optimizelegibility;
+      height: 690px;
+      margin-top: 20px;
+      top: -20px;
+}
+
+#logoImg {
+      margin-top: -12px;
+}
+
+#textSizeh1 {
+      font-size: 55px;
+      text-shadow: 1px 2px 1px black;
+}
+
+#textSize {
+      font-size: 29px;
+      text-shadow: 1px 2px 1px black;
+      font-family: sans-serif;
+}
+
+#OurGasPrice {
+      font-size: 24px;
+}
+
+#hero article {
+      width: 100%;
+      text-align: center;
+      display: table-cell;
+      vertical-align: middle;
+}
+
+#hero .hero-text {
+      margin-top: 30px;
+      margin-left: 1060px
+}
+
+#price-timeline {
+      margin: 30px 0 60px;
+      text-align: center;
+      font-size: 2em;
+}
+
+#price-timeline .price {
+      display: inline-block;
+      width: 30%;
+      margin: 0 2% 0 0;
+      background: #3e4249;
+      padding: 10px 20px 30px;
+      position: relative;
+      vertical-align: top;
+}
+
+#price-timeline .price.active {
+      background: #dd5638;
+}
+
+#price-timeline .price span {
+      background: #00264d;
+      display: block;
+      height: 70px;
+      width: 110px;
+      text-align: center;
+      line-height: 70px;
+      font-weight: bold;
+      font-size: 39px;
+      border-radius: 100%;
+      -webkit-border-radius: 100%;
+      -moz-border-radius: 100%;
+      position: absolute;
+      bottom: -35px;
+      left: 44%;
+      margin-left: -35px;
+      color: #ffff99;
+      text-shadow: 3px 9px 1px #1A004D;
+      text-rendering: optimizeLegibility;
+      font-family: "Adobe Caslon Pro", "Hoefler Text";
+      box-shadow: 1px 2px 2px #ffff99;
+}
+
+#price-timeline h4 {
+      margin: 0 0 10px;
+}
+
+#price-timeline h4 small {
+      color: white;
+      font-weight: bold;
+      display: block;
+}
+
+#hide {
+      opacity: 0
+}
+
+#newDiv {
+      height: 40px;
+      background-color: black;
+      margin-top: 260px;
+      margin-bottom: -20px
+}
+/* ===================== Section ================== */
+
+.row + .row {
+      margin-top: 20px;
+}
+
+#optin {
+      background: #3e4249;
+      padding: 20px 0;
+      color: white;
+      -webkit-font-smoothing: antialiased;
+      text-rendering: optimizelegibility;
+      font-size: 1.2em;
+      position: relative;
+      margin-top: 290px;
+      margin-bottom: -20px;
+}
+
+#optin p {
+      margin: 7px 0 0 0;
+}
+/* =========================== page Contect ========================== */
+
+#SecondSection {
+      margin-top: 20px;
+      background: url('../Images%20&%20Videos/tile.jpg') top left repeat;
+      color: #3e4249;
+      text-shadow: none;
+      font-size: .9em;
+}
+
+#SecondSection H2 {
+      font-size: 1.4em;
+      font-weight: bold;
+      color: #0066ff;
+      text-indent: 30px;
+}
+
+#SecondSection #firstImage {
+      width: 400px;
+      margin-left: 290px;
+      margin-top: 30px;
+}
+
+#SecondSection #secondImage {
+      display: none;
+      width: 400px;
+      margin-left: 100px;
+      margin-top: 100px;
+}
+
+#mail {
+      font-size: .85em;
+      margin-left: 9px;
+}
+
+#SecondSection address {
+      font-size: .75em;
+      line-height: 51.5px;
+      color: #7D7D7D;
+}
+
+#SecondSection p {
+      font-size: .9em;
+      display: -webkit-flex;
+      /* Safari */
+      
+      -webkit-justify-content: space-around;
+      /* Safari 6.1+ */
+      
+      display: flex;
+      justify-content: space-around;
+      color: #7D7D7D;
+}
+
+#SecondSection hr {
+      height: 1px;
+      background-color: #838687;
+}
+
+#SecondSection .col-sm-4 {
+      border-left: 3px solid #ad0f00;
+      margin-bottom: 20px;
+      padding-left: 30px;
+}
+
+#SecondSection .col-sm-8 {
+      line-height: 53px;
+}
+/* ======================= end of section 2 ====================== */
+/* ======================= rowSection =========================== */
+
+#rowSection {
+      color: #3e4249;
+      text-shadow: none;
+      height: 700px;
+}
+
+#rowSection .col-sm-4 {
+      text-align: center;
+      border-right: 1px solid;
+      font-size: .75em;
+      background-image: url(../Images%20&%20Videos/RowSection.jpg);
+      background-size: cover;
+      height: 700px;
+      background-repeat: no-repeat;
+      padding-top: 30px;
+      background-attachment: fixed;
+}
+
+#rowSection .col-sm-4 img {
+      margin-left: 50px
+}
+
+#rowSection .col-sm-4 h2 {
+      margin: 30px;
+      font-size: 1.4em;
+      color: blue;
+}
+
+#rowSection .col-sm-4 p {
+      line-height: 60px
+}
+/* ===================== end of row section ======================= */
+
+#course-features {
+      background-color: #3e4249;
+      background: url(../Images%20&%20Videos/feature-bg.jpg);
+      background-size: contain;
+      background-attachment: fixed;
+      height: 700px;
+}
+
+#course-features img {
+      border-radius: 120px;
+      margin: 40px 0 40px 440px;
+      width: 220px
+}
+
+#course-features h2 {
+      margin-left: 385px;
+      margin-bottom: 30px;
+      font-size: 1.1em
+}
+
+#course-features .glyphicon {
+      font-size: .7em;
+      color: green;
+      padding: 20px;
+      margin-right: 70px;
+      margin-left: 40px;
+      text-align: center;
+      margin-bottom: -30px;
+}
+
+#course-features .col-sm-2 h4 {
+      font-size: .8em;
+      color: white;
+      margin-top: -4px
+}
+
+.wider {
+      width: 160px;
+      word-spacing: -12px;
+}
+/* ===================== end of features ======================= */
+/* ====================== page end section ====================== */
+
+#PageEnd {
+      background: url(../Images%20&%20Videos/RowSection.jpg) no-repeat;
+      background-size: cover;
+      background-attachment: fixed;
+      height: 150px;
+      text-align: center;
+      margin-top: -20px
+}
+
+#PageEnd h1 {
+      font-size: 2em;
+      color: #3e4249;
+      padding-top: 30px;
+}
+/* ===================== Footer section ======================== */
+
+footer {
+      background: #dd5638;
+      color: white;
+      height: 70px;
+      margin-top: 0px;
+      text-shadow: none;
+      color: #3e4249;
+      font-size: 20px;
+      font-weight: bold;
+      padding: 20px 0;
+}
+}
+footer p {
+      margin: 0;
+}
+footer a:link,
+footer a:visited {
+      color: white;
+}
+footer a:hover {
+      color: #3e4249;
+}
+footer img {
+      margin: -20px;
+      padding: 0;
+      width: 170px;
+      height: 70px
+}
+/* ========================================== media quires ================================================== */
+
+@media (min-width: 1800px) {
+      #hero {
+            background: url('../Images%20&%20Videos/logo6.jpg') fixed cover no-repeat;
+      }
+      
+      #hero article {
+            width: 80%;
+            vertical-align: middle;
+      }
+      
+      #hero .hero-text {
+            margin-top: 30px;
+            margin-left: 900px;
+      }
+      
+      #textSizeh1 {
+            text-shadow: 1px 2px 1px black;
+      }
+      
+      #textSize {
+            font-size: 20px;
+            text-shadow: 1px 2px 1px black;
+            font-family: sans-serif;
+      }
+}
+@media (max-width: 1500px) {
+      #hero {
+            background: url('../Images%20&%20Videos/logo6.jpg') fixed cover no-repeat;
+      }
+      
+      #hero article {
+            width: 70%;
+            vertical-align: middle;
+      }
+      
+      #hero .hero-text {
+            margin-top: 30px;
+            margin-left: 700px;
+      }
+      
+      #textSizeh1 {
+            text-shadow: 1px 2px 1px black;
+      }
+      
+      #textSize {
+            font-size: 20px;
+            text-shadow: 1px 2px 1px black;
+            font-family: sans-serif;
+      }
+}
+@media (max-width: 1200px) {
+      #hero {
+            background: url('../Images%20&%20Videos/logo6.jpg') fixed cover no-repeat;
+      }
+      
+      #hero article {
+            width: 70%;
+            vertical-align: middle;
+      }
+      
+      #hero .hero-text {
+            margin-top: 30px;
+            margin-left: 700px;
+      }
+      
+      #textSizeh1 {
+            text-shadow: 1px 2px 1px black;
+      }
+      
+      #textSize {
+            font-size: 20px;
+            text-shadow: 1px 2px 1px black;
+            font-family: sans-serif;
+      }
+      
+      #logoImg {
+            height: 60px;
+            margin-top: -14px
+      }
+      
+      #navbar-mb {
+            margin: 5px 0;
+            padding-left: 190px;
+      }
+      
+      nav .navbar-nav {
+            padding-left: 200px;
+            font-size: 22px;
+      }
+      
+      nav .navbar-nav li {
+            padding-left: 20px;
+      }
+}
+@media (max-width: 1000px) {
+      #hero {
+            background: url('../Images%20&%20Videos/logo6.jpg') fixed no-repeat;
+            background-size: auto;
+      }
+      
+      #hero .hero-text {
+            margin-top: -290px;
+            margin-left: 0px;
+            display: inline;
+            height: 300px;
+            width: 1000px
+      }
+      
+      #textSizeh1 {
+            text-shadow: 1px 2px 1px black;
+      }
+      
+      #textSize {
+            font-size: 20px;
+            text-shadow: 1px 2px 1px black;
+            font-family: sans-serif;
+      }
+      
+      #navbar-mb {
+            margin: 5px 0;
+            padding-left: 190px;
+      }
+      
+      nav .navbar-nav {
+            padding-left: 0;
+            font-size: 22px;
+      }
+      
+      nav .navbar-nav li {
+            padding-left: 20px;
+      }
+      
+      #logoImg {
+            height: 60px;
+            margin-top: -14px;
+      }
+      
+      #newDiv {
+            margin-top: -225px
+      }
+      
+      #course-features {
+            font-size: 80%;
+      }
+      
+      #course-features .col-sm-2 {
+            padding: 14px;
+            left: 260px
+      }
+      
+      #PageEnd {
+            font-size: 60%
+      }
+}
+@media (max-width: 900px) {
+      #hero {
+            background: url('../Images%20&%20Videos/logo6.jpg') no-repeat;
+      }
+      
+      #hero .hero-text {
+            margin-top: -300px;
+            margin-left: -40px;
+            display: inline;
+            height: 300px;
+            width: 1000px
+      }
+      
+      #newDiv {
+            margin-top: -200px
+      }
+}
+@media (max-width: 700px) {
+      #hero {
+            background: url('../Images%20&%20Videos/logo6.jpg') no-repeat;
+            margin-top: -100px;
+      }
+      
+      #hero .hero-text {
+            margin-top: -150px;
+            margin-left: -40px;
+            display: inline;
+            height: 300px;
+            width: 1000px
+      }
+      
+      #newDiv {
+            margin-top: -200px
+      }
+}
+@media (max-width: 500px) {
+      #hero {
+            background: url('../Images%20&%20Videos/logo6.jpg') no-repeat;
+            margin-top: -120px;
+      }
+      
+      #hero .hero-text {
+            margin-top: -170px;
+            margin-left: -40px;
+      }
+      
+      #newDiv {
+            display: none;
+      }
+      
+      #textSizeh1 {
+            font-size: 90%
+      }
+      
+      #textSize {
+            font-size: 40%
+      }
+      
+      #mapLink {
+            display: none;
+      }
+      
+      #OurGasPrice {
+            font-size: 16px
+      }
+      
+      #price-timeline .price.active {
+            width: 150px;
+            height: 80px
+      }
+      
+      #price-timeline .price span {
+            width: 200px;
+            opacity: .9;
+            left: 10px
+      }
+      
+      #logoImg {
+            height: 50px
+      }
+      
+      #SecondSection {
+            margin-top: -175px
+      }
+      
+      #course-features {
+            margin-top: 1400px;
+            width: 800px;
+            background-attachment: inherit;
+            background-repeat: no-repeat;
+            height: 340px
+      }
+      
+      #course-features img {
+            display: none;
+      }
+      
+      #course-features div {
+            padding: 0;
+            margin: 0;
+      }
+      
+      #course-features h2 {
+            margin-left: 160px
+      }
+      
+      #course-features .col-sm-2 {
+            font-size: 20px;
+            margin: 0;
+      }
+      
+      #PageEnd {
+            font-size: 50%;
+            height: 100px;
+      }
+      
+      footer {
+            font-size: 15px;
+            text-align: center;
+            height: 100px
+      }
+      
+      footer .col-sm-5 {
+            padding: 0;
+            margin: 0;
+            width: 400px;
+            float: left;
+            margin-left: 150px
+      }
+      
+      footer p {
+            margin-right: 65px;
+      }
+      
+      footer .col-sm-2 {
+            display: none;
+      }
+      
+      .navbar {}
+}
+@media (max-width: 340px) {
+      #hero {
+            background: url('../Images%20&%20Videos/logo6.jpg') no-repeat;
+            margin-top: -80px;
+      }
+      
+      .navbar {
+            display: none;
+      }
+      
+      #SecondSection img {
+            display: none;
+      }
+      
+      #SecondSection {
+            font-size: 40%;
+      }
+      
+      #SecondSection a {
+            font-size: 80%
+      }
+      
+      #rowSection {
+            font-size: 50%;
+      }
+      
+      #rowSection .col-sm-4 {
+            height: 350px;
+      }
+      
+      #course-features {
+            margin-top: 350px;
+            font-size: 40%;
+            width: 340px;
+            height: 450px;
+            background-size: cover;
+      }
+      
+      #course-features .col-sm-2 {
+            font-size: 90%;
+            padding: 0;
+            margin: 0;
+            display: block;
+            margin-left: -270px
+      }
+      
+      #course-features h2 {
+            margin-left: 6px;
+      }
+      
+      #PageEnd {
+            font-size: 30%;
+            text-shadow: none;
+      }
+      
+      footer {
+            max-width: 340px;
+            padding: 0;
+            margin: 0;
+            text-align: left;
+            height: 220px
+      }
+      
+      footer li {
+            padding: 0;
+            margin-right: 600px
+      }
+      
+      footer p {
+            margin-right: 400px;
+      }
+      
+      footer .col-sm-2 {
+            display: none;
+      }
+}

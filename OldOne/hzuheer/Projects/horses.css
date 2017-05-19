@@ -1,0 +1,25 @@
+        h1,
+        h2,
+        h3,
+        h4,
+        h5,
+        h6 {
+            color: #000080;
+        }
+        
+        p {
+            color: black;
+            line-height: 150%;
+            font-size: 100%
+        }
+        
+        body {
+            font-family: Garamond, "Times New Roman", serif;
+            color: #7A7A7A;
+        }
+        
+        p span {
+            font-size: 130%;
+            color: blue;
+            font-family: Arial, sans-serif;
+        }

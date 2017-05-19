@@ -1,0 +1,12 @@
+C:\Users\hala\Desktop\ch11\ch11\6  ExceptionHandlingDemoGUI\bin\Debug\6  ExceptionHandlingDemoGUI.exe.config
+C:\Users\hala\Desktop\ch11\ch11\6  ExceptionHandlingDemoGUI\bin\Debug\6  ExceptionHandlingDemoGUI.exe
+C:\Users\hala\Desktop\ch11\ch11\6  ExceptionHandlingDemoGUI\bin\Debug\6  ExceptionHandlingDemoGUI.pdb
+C:\Users\hala\Desktop\ch11\ch11\6  ExceptionHandlingDemoGUI\obj\Debug\6  ExceptionHandlingDemoGUI.csprojResolveAssemblyReference.cache
+C:\Users\hala\Desktop\ch11\ch11\6  ExceptionHandlingDemoGUI\obj\Debug\_6__ExceptionHandlingDemoGUI.Form1.resources
+C:\Users\hala\Desktop\ch11\ch11\6  ExceptionHandlingDemoGUI\obj\Debug\_6__ExceptionHandlingDemoGUI.Properties.Resources.resources
+C:\Users\hala\Desktop\ch11\ch11\6  ExceptionHandlingDemoGUI\obj\Debug\6  ExceptionHandlingDemoGUI.csproj.GenerateResource.Cache
+C:\Users\hala\Desktop\ch11\ch11\6  ExceptionHandlingDemoGUI\obj\Debug\6  ExceptionHandlingDemoGUI.exe
+C:\Users\hala\Desktop\ch11\ch11\6  ExceptionHandlingDemoGUI\obj\Debug\6  ExceptionHandlingDemoGUI.pdb
+C:\Users\hala\Desktop\IWT\Second semester\C#\ch11+14\ch11\ch11\6  ExceptionHandlingDemoGUI\bin\Debug\6  ExceptionHandlingDemoGUI.exe.config
+C:\Users\hala\Desktop\IWT\Second semester\C#\ch11+14\ch11\ch11\6  ExceptionHandlingDemoGUI\obj\Debug\6  ExceptionHandlingDemoGUI.exe
+C:\Users\hala\Desktop\IWT\Second semester\C#\ch11+14\ch11\ch11\6  ExceptionHandlingDemoGUI\obj\Debug\6  ExceptionHandlingDemoGUI.pdb

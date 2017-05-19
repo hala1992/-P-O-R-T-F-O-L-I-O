@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+
+    <title>Link Window</title>
+    <script type="text/javascript">
+        /* <![CDATA[ */
+        var newW;
+
+
+        function openW() {
+                if (document.frm.chbx.checked == true) {
+                    document.links[0].setAttribute('target', '_blank');
+                    document.links[1].setAttribute('target', '_blank');
+
+                } else {
+                    document.links[0].setAttribute('target', '');
+                    document.links[1].setAttribute('target', '');
+                }
+            }
+            /* ]]> */
+    </script>
+</head>
+
+<body>
+    <h2>My Favorite Links</h2>
+    <ol>
+        <li><a href="http://www.google.com" onclick="openW(this.href)">Google</a>
+        </li>
+        <li><a href="http://www.facebook.com" onclick="openW(this.href)">Facebook</a>
+        </li>
+
+    </ol>
+    <form name="frm">
+        <input type="checkbox" name="chbx" checked=""> Open Link in a new window
+    </form>
+
+
+</body>
+
+</html>

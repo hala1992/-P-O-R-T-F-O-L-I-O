@@ -1,0 +1,5 @@
+C:\Users\hala\Desktop\ch11\ch11\5 BookExceptionDemo2\bin\Debug\5 BookExceptionDemo2.exe.config
+C:\Users\hala\Desktop\ch11\ch11\5 BookExceptionDemo2\bin\Debug\5 BookExceptionDemo2.exe
+C:\Users\hala\Desktop\ch11\ch11\5 BookExceptionDemo2\bin\Debug\5 BookExceptionDemo2.pdb
+C:\Users\hala\Desktop\ch11\ch11\5 BookExceptionDemo2\obj\Debug\5 BookExceptionDemo2.exe
+C:\Users\hala\Desktop\ch11\ch11\5 BookExceptionDemo2\obj\Debug\5 BookExceptionDemo2.pdb

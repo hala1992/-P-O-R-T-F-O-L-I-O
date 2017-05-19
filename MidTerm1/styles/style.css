@@ -1,0 +1,378 @@
+/*
+..colors
+..bg-logo #f6f9f9
+............banner h1 
+Times New Roman
+font size 120pt
+color # fff;
+border #15a4fa
+..........p font size 20pt
+Times New Roman
+.............call to action font size 20pt
+............. Simple bg #f6f9f9
+...............simple p font size 20pt
+color #999999
+.............. h1 40pt
+color #2d3950
+................ p color #999999
+15pt
+..............h3 color #2d3950 22pt
+
+................... pics h3 41pt color #2d3950
+......p #909090 15pt
+.............. stay h2 41pt
+.............p #999999
+15pt
+
+
+.............cheack mark #f6f9f9 
+...............footer 15pt #999999
+
+
+*/
+/* --------------------------
+General Styles
+----------------------------- */
+
+html {
+    -webkit-font-smoothing: antialiased;
+    text-rendering: optimizeLegibility;
+}
+
+.clearfix:before,
+.clearfix:after {
+    content: "";
+    display: table;
+}
+
+.clearfix:after {
+    clear: both;
+}
+
+.clearfix {
+    zoom: 1;
+}
+
+.container {
+    width: 1171px;
+    padding: 0 10px;
+    margin: 0 auto;
+}
+
+#liquid {
+    width: 1600px;
+    margin: 0 auto;
+    background-color: #fff;
+    border-left: 1px solid #000000;
+    border-right: 1px solid #000000;
+}
+
+body {
+    background-color: #c0c0c0
+}
+/* --------------------------
+           Header
+----------------------------- */
+
+header {
+    background-color: #f6f9f9;
+    height: 99px;
+    width: 1600px;
+}
+
+header img {
+    display: block;
+    padding-top: 31px;
+    margin-left: 22px;
+    margin-right: -500px;
+    padding-left: 15px;
+}
+/* --------------------------
+           Banner
+----------------------------- */
+
+#banner {
+    background: url(../images/bg.jpg) no-repeat;
+    width: 1600px;
+    height: 800px;
+    margin-top: -79px
+}
+
+#banner h1 {
+    font-size: 91pt;
+    color: #fff;
+    font-family: Lato;
+    font-weight: bold;
+    border-bottom: 2px solid #15a4fa;
+    text-align: center;
+    width: 601px;
+    padding-top: 187px;
+    margin-left: 499px;
+    padding-bottom: 10px;
+}
+
+#banner p {
+    font-family: Lato;
+    font-size: 1.30em;
+    color: #fff;
+    text-align: center;
+    margin-top: -48px;
+    margin-right: 4px;
+}
+
+#call-to-action {
+    color: #fff;
+    font-size: 13pt;
+    border: 1px solid #15a4fa;
+    border-radius: 3px;
+    width: 178px;
+    height: 35px;
+    text-align: center;
+    font-family: Lato;
+    margin-left: 711px;
+    margin-top: 60px;
+    padding-top: 16px;
+    padding-left: -5px;
+    padding-right: -5px;
+    padding-bottom: 3px;
+}
+
+#call-to-action a {
+    font-size: 18px;
+    text-align: center;
+    color: #fff;
+    text-decoration: none;
+    font-family: Lato;
+    word-spacing: 2px;
+}
+
+#small {
+    text-align: center;
+    margin-top: 174px;
+}
+/* --------------------------
+Lead In - Simple & Pure Design
+----------------------------- */
+
+#lead-in {
+    margin-bottom: 30px;
+    background-color: #f6f9f9;
+    margin-top: -26px;
+    height: 339px;
+}
+
+#lead-in h1 {
+    text-align: center;
+    font-size: 31pt;
+    word-spacing: 1px;
+    color: #2d3950;
+    font-family: Lato;
+    font-weight: normal;
+    padding-top: 68px;
+    padding-left: 10px;
+    margin-bottom: -13px;
+}
+
+#lead-in p {
+    font-size: 1.31em;
+    text-align: center;
+    line-height: 31px;
+    font-family: Lato;
+    color: #999999;
+    padding-top: 14px;
+    padding-bottom: 104px;
+}
+/* --------------------------
+           Section
+----------------------------- */
+
+#column-content {
+    margin-left: -4px;
+    height: 340px;
+    margin-top: -30px
+}
+
+.one {
+    width: 390px;
+    text-align: center;
+    float: left;
+    padding-top: 66px;
+}
+
+.last {
+    margin-right: 0;
+}
+
+.one h5 {
+    color: #2d3950;
+    font-family: Lato;
+    font-size: 16pt;
+    letter-spacing: 1px;
+    text-align: center;
+    max-width: 400px;
+    font-weight: normal;
+    margin-top: 23px;
+    margin-bottom: 16px;
+}
+
+.one p {
+    color: #b4b4b4;
+    margin-left: 32px;
+    max-width: 330px;
+    font-family: Lato;
+    text-align: center;
+    margin-bottom: px;
+}
+/* --------------------------
+           Hober
+----------------------------- */
+
+#hober {
+    text-align: center;
+    font-family: Lato;
+    background-color: #f6f9f9;
+    height: 900px;
+}
+
+#pro-in h4 {
+    font-family: Lato;
+    font-weight: normal;
+    color: #2d3950;
+    font-size: 30pt;
+    word-spacing: 3px;
+    text-align: center;
+    letter-spacing: 1px;
+    padding-top: 18px;
+}
+
+#pro-in p {
+    font-family: Lato;
+    color: #979797;
+    margin-top: -37px;
+    margin-bottom: 80px;
+}
+
+#pictures {
+    margin-left: -4px;
+    height: 900px;
+}
+
+.two {
+    width: 390px;
+    text-align: center;
+    float: left;
+    padding-bottom: 24px;
+}
+
+.last2 {
+    margin-right: 0;
+}
+/* --------------------------
+           Stay
+----------------------------- */
+
+form#stay {
+    background: url(../images/bg2.jpg) repeat-x;
+    padding: 20px;
+    height: 730px;
+    text-align: center;
+}
+
+form#stay h2 {
+    text-align: center;
+    font-weight: normal;
+    font-family: Lato;
+    color: #fff;
+    font-size: 32pt;
+    word-spacing: 2px;
+    padding-left: 6px;
+    margin-bottom: -2px;
+    padding-top: 9px;
+}
+
+form#stay p {
+    text-align: center;
+    font-weight: normal;
+    font-family: Lato;
+    color: #999999;
+    margin-bottom: 50px;
+}
+
+form #name,
+form #email {
+    font-family: Lato;
+    background: none;
+    width: 512px;
+    padding: 19px 20px;
+    border: 1px solid #808287;
+    border-radius: 3px;
+    color: #999999;
+    margin-bottom: 19px;
+    margin-right: 10px;
+}
+
+textarea {
+    font-family: Lato;
+    background: none;
+    padding: 20px 20px;
+    width: 512px;
+    resize: none;
+    border: 1px solid #808287;
+    border-radius: 3px;
+    color: #999999;
+    height: 120px;
+    margin-top: -19px;
+    margin-bottom: -10px;
+    margin-right: 10px;
+}
+
+input.btn1 {
+    padding-right: 10px;
+    border-radius: 2px;
+    margin-left: -5px
+}
+
+form lable {
+    margin-right: 260px;
+    color: #fff;
+    font-family: Lato;
+    word-spacing: 3px;
+    padding-right: 15px;
+}
+
+form #send {
+    background: none;
+    color: #fff;
+    font-size: 14pt;
+    font-weight: normal;
+    letter-spacing: 1px;
+    border: 1px solid #15a4fa;
+    border-radius: 3px;
+    padding: 11px 48px;
+    font-family: Lato;
+    margin-top: 29px;
+    margin-left: -50px;
+}
+/* --------------------------
+           Footer
+----------------------------- */
+
+#copyright {
+    font-family: Lato;
+    color: #999999;
+    font-size: 11pt;
+    margin-top: -4px;
+    word-spacing: 3px;
+    padding-left: 10px;
+}
+
+.socials {
+    float: right;
+    margin-top: -44px;
+    margin-bottom: 20px;
+    padding-right: 20px;
+}
+
+.socials a {
+    text-decoration: none;
+}
